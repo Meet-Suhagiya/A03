@@ -37,4 +37,5 @@
 - Make sure to save or turn on autosave in bottom right corner
 
 <h4>Step 5</h4>
-- Import your repository from your local device into the wesbite.
+- Publish the repository from the GitHub app onto GitHub.com
+- Open GitHub app and commit the changes you made in the README so that it merges with the main branch.
